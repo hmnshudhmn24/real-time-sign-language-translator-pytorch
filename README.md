@@ -3,13 +3,11 @@
 
 A fully working, real-time sign language translator that uses your webcam to detect hand signs (A-Z) and translates them into English letters using a custom-trained CNN model. Built with PyTorch, OpenCV, MediaPipe, and Tkinter for a live GUI interface.
 
----
 
 ## 📖 Project Description
 
 This project aims to make communication more inclusive for people with hearing or speech impairments. By using a webcam and real-time hand gesture detection, it provides instant feedback in the form of English letters based on American Sign Language (ASL). It's an innovative blend of AI, computer vision, and accessibility.
 
----
 
 ## 🚀 How to Run the Project
 
@@ -32,7 +30,6 @@ Place the `sign_language_model.pth` in the root directory.
 python translator.py
 ```
 
----
 
 ## 🧰 Tech Stack
 
@@ -41,7 +38,6 @@ python translator.py
 - MediaPipe
 - Tkinter
 
----
 
 ## 🌟 Key Features
 
